@@ -11,6 +11,7 @@ Welcome , This is a landing page made by Html, CSS and JavaScript.
 <li>A Responsive layout of the landing page should be created to use across all devices.
 <li>A smooth scrolling behavior.
 <li>Navigation is built dynamically with created sections.
+<li>The active section in viewport is highlighted.
 </ul>
 
 ### Used JS Methods for Building Nav :
